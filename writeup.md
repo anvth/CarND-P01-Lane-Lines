@@ -50,4 +50,10 @@ My pipeline consisted of 5 steps.
 * Pre-process the image to standardise it's shape
 * Improve code documentation
 
+### 4. References
 
+* https://classroom.udacity.com/courses/ud810
+* http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_intro/py_intro.html
+* https://github.com/udacity/CarND-LaneLines-P1
+* https://becominghuman.ai/detecting-lane-lines-udacity-sdcnd-b52bf36193cb
+* https://medium.com/@liamondrop/temporal-smoothing-to-remove-jitter-in-detected-lane-lines-d1430cb5c106
